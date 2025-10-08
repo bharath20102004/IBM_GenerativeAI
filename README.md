@@ -1,2 +1,2 @@
-# IBM_GenerativeAI
+# IBM_EduTutorAI
 
